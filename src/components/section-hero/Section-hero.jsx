@@ -14,7 +14,7 @@ export default function SectionHero() {
                 </p>
                 <button className="btn-hero btn poppins-regular">Get started</button>
             </div>
-            <img src="./src/assets/hero-bg.jpg" alt="" />
+            <img src="src/assets/hero-bg.jpg" alt="" />
         </section>
     )
 }

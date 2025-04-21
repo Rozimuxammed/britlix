@@ -4,7 +4,7 @@ export default function Navbar() {
     return (
         <nav className='navbar container'>
             <a href="#">
-                <img src="./src/assets/logo.svg" alt="" />
+                <img src="src/assets/logo.svg" alt="" />
             </a>
             <div>
                 <ul className="lists">
