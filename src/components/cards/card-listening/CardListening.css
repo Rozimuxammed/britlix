@@ -1,0 +1,21 @@
+.listening {
+    display: flex;
+    gap: 50px;
+    padding: 25px 44px;
+    grid-column: span 2;
+    background-color: #F5F5F5;
+    border-radius: 10px;
+}
+
+.listening img {
+    width: 50%;
+    object-fit: contain;
+}
+
+.listening h2 {
+    font-size: 30px;
+}
+
+.listening p {
+    color: #8F95A5;
+}

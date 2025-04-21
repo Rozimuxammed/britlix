@@ -1,0 +1,37 @@
+.about-us {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.about-us>.title h2 {
+    font-size: 30px;
+    margin-bottom: 23px;
+}
+
+.about-us>.title p {
+    line-height: 30px;
+    color: #8F95A5;
+    margin-bottom: 38px;
+    width: 65%;
+}
+
+.about-us>.title>.result {
+    text-align: center;
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.about-us>.title>.result p {
+    width: 100%;
+}
+
+.about-us>.title>.result h3 {
+    font-size: 48px;
+    margin: 0;
+    color: #2A3246;
+}

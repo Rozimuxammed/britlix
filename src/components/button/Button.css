@@ -1,0 +1,8 @@
+.buttonCard {
+    background-color: #263238;
+    color: #FFFFFF;
+    padding: 17px 63px;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+}

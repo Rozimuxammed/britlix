@@ -1,0 +1,11 @@
+.pricing h1 {
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 80px;
+}
+
+.pricing .pricing-cards {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
